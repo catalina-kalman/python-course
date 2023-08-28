@@ -28,9 +28,3 @@ print(f"2 ? 3 = {floor_divided} (should be 0)")
 
 expr = 2 ** 3
 print(f"2 ? 3 = {expr} (should be 8)")
-
-num = 3//2
-print(f"3//2 is {num}")
-
-num = 3/2
-print(f"3/2 is {num}")
