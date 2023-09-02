@@ -44,4 +44,4 @@ Currently, nothing special is necessary other than the following requirement:
 No specific installation is required for this project. Simply clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/learning-python.git
+git clone https://github.com/catalina-kalman/python-course.git
